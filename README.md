@@ -4,7 +4,7 @@ Flutter TV Master Configuration.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter TV application. You can start your flutter tv app by cloning this template. Do not forget about Flutter Focus (References : https://medium.com/@omlondhe/keyboard-focus-in-flutter-d574a1b77d39) in order to save your time to manage your focusable widget.
 
 A few resources to get you started if this is your first Flutter project:
 
